@@ -1,6 +1,7 @@
  
-![](https://github.com/RaviKarrii/RaviKarrii/blob/master/header.png?raw=true)
-
+<!--![](https://github.com/RaviKarrii/RaviKarrii/blob/master/header.png?raw=true)
+-->
+### Ravi Karri
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About
