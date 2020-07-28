@@ -9,14 +9,7 @@
 
 ### About
 
--  **Learning :** Open-Source :fire:	
--  **Languages :** Python, C# , JavaScript
--  **Hobbies :** Music :headphones: 
--  **Organization :** Infosys
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=ravikarrii&show_icons=true)
+I am a programmer with 5 years of working experience. I am currently looking to collaborate in opensource projects, Mostly interested in Python or React Native projects. 
 
 
 <!--
