@@ -7,8 +7,6 @@
 </a>
 <br />
 
-### About
-
 I am a programmer with 5 years of working experience. I am currently looking to collaborate in opensource projects, Mostly interested in Python or React Native projects. 
 
 
