@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/ravi-shanker-reddy-karri-9299b71b/">
   <img align="left" alt="Ravi Karri's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br />
+<br />
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About
