@@ -4,7 +4,7 @@
 </div>  
 
 <h1 align="center">I'm Ravi Karri</h1>
-I am a programmer with 6 years of working experience. I am currently looking to collaborate in opensource projects, Mostly interested in Python or React Native projects. 
+I am a programmer with 7 years of working experience. I am currently looking to collaborate in opensource projects, Mostly interested in Python or React Native projects. 
 
 <br />
 
